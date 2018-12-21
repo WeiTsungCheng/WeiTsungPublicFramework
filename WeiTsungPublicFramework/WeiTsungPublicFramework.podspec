@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WeiTsungPublicFramework"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "This is WeiTsung Framework."
   s.description  = "Good Framework, this is WeiWei's Framework"
   s.homepage     = "https://github.com/WeiTsungCheng/WeiTsungPublicFramework"
