@@ -17,5 +17,9 @@ public class Service {
     public static func dosomething() -> String {
         return "Life is long, try your best to do anything"
     }
+
+    public static func sayNumber() -> Int {
+        return 1000
+    }
 }
 
