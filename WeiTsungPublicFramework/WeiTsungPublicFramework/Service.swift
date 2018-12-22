@@ -25,5 +25,9 @@ public class Service {
     public static func sayHey() -> String {
         return "Hey man"
     }
+
+    public static func add(x: Int, y: Int) -> Int {
+        return x + y
+    }
 }
 
